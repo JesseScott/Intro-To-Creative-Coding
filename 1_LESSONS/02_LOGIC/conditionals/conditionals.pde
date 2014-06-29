@@ -1,28 +1,50 @@
 /*
-  Showcasing the possibilites of booleans (and colors)
+  Showcasing the possibilites of if statements
 */
 
-boolean rxb = false;
-color r = color(255,0,0);
-color b = color(0,0,255);
+boolean red = false;
+String foo = "Hello World";
+int pos = 25;
 
 void setup() {
-  
+  size(400, 400);
+  fill(0);
+  textSize(24);
   
 }
 
 void draw() {
-  if(rxb == true) {
-    background(r); 
+  
+  if(red == true) {
+    background(255, 0, 0); 
   }
   else {
-    background(b);
+    background(0, 0, 255);
   }
+  
+  if(pos >= width) {
+     pos = 25; 
+  }
+  
+  text(foo, pos, 200);
   
 }
 
 void mousePressed() {
- rxb =! rxb; 
+ red =! red; 
+ 
+ if(foo.equals("Hello World") == false) {
+   foo = "Hello World";
+ }
+ else if(foo.equals("Hello World") == true) {
+   foo = "Goodbye World"; 
+ }
+ else {
+   foo = "um... ??";
+ }
+ 
+ pos += 25;
+ 
 }
 
 
