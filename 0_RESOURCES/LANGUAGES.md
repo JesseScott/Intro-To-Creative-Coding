@@ -1,6 +1,7 @@
 LANGUAGES
 =========
 
+---
 
 # [the elder gods]
 
@@ -13,41 +14,57 @@ LANGUAGES
 ##Prolog
 ##Lisp
 
+---
 
 # [the C also rises]
 
 ##C
 
-www.processing.org
+http://www.open-std.org/jtc1/sc22/wg14/
 
 C !
 
 
 ##C++
 
-www.processing.org
+http://isocpp.org/
 
 C++ !
 
 
-##C#
+##C-Sharp
 
-www.processing.org
+http://www.microsoft.com/en-us/download/details.aspx?id=7029
 
 C# !
 
 
 ##OBJECTIVE-C
 
-www.processing.org
+https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 
 OBJECTIVE-C !
 
+---
 
 # [Sun nails an array of theses to the door]
 
 ##JAVA
 
-www.processing.org
+http://www.oracle.com/technetwork/java/index.html
 
 Java !
+
+##JAVASCRIPT
+
+https://developer.mozilla.org/en/docs/Web/JavaScript
+
+JavaScript !
+
+##ACTIONSCRIPT
+
+http://livedocs.adobe.com/specs/actionscript/3/wwhelp/wwhimpl/js/html/wwhelp.htm
+
+ActionScript !
+
+
