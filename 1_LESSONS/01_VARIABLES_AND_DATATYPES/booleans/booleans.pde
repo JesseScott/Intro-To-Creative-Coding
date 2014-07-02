@@ -22,7 +22,13 @@ void draw() {
 }
 
 void mousePressed() {
- rxb =! rxb; 
+  // rxb = !rxb;
+ if(rxb == true) {
+   rxb = false;
+ } 
+ else if(rxb == false) {
+   rxb = true; 
+ }
 }
 
 

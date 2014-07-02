@@ -16,13 +16,14 @@ void draw() {
   text("The global x is " + x, 150, 25);
 
   /* this 'x' is LOCAL and can only be read in draw() */
-  int x = 101;
+   x = 101;
   
   text("The local x is " + x, 150, 125);
 
+  noLoop();
   
 }
 
 void mousePressed() {
-   text("The global x is " + x, 150, 175); 
+ loop(); 
 }

@@ -2,9 +2,9 @@
   Showcasing the possibilites of if statements
 */
 
-boolean red = false;
-String foo = "Hello World";
-int pos = 25;
+boolean  red;
+String   msg = "Hello World";
+int      pos = 25;
 
 void setup() {
   size(400, 400);
@@ -15,35 +15,29 @@ void setup() {
 
 void draw() {
   
-  if(red == true) {
+
+  
+  int ypos = pos;
+  text(msg, pos, ypos);
+  
+}
+
+void mousePressed() {
+ red = !red; 
+ pos += 25;
+ 
+   if(red == true) 
+  {
     background(255, 0, 0); 
   }
-  else {
+  else 
+  {
     background(0, 0, 255);
   }
   
   if(pos >= width) {
      pos = 25; 
   }
-  
-  text(foo, pos, 200);
-  
-}
-
-void mousePressed() {
- red =! red; 
- 
- if(foo.equals("Hello World") == false) {
-   foo = "Hello World";
- }
- else if(foo.equals("Hello World") == true) {
-   foo = "Goodbye World"; 
- }
- else {
-   foo = "um... ??";
- }
- 
- pos += 25;
  
 }
 
