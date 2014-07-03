@@ -23,7 +23,7 @@ void draw() {
 /* THIS is another (built-in) function */
 void mousePressed() {
   x++;
-  mySecondFunction(x); /* calling a VIOD function */
+  mySecondFunction(x); /* calling a VOID function */
 }
 
 void mouseReleased() {
