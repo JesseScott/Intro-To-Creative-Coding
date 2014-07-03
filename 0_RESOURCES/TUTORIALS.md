@@ -1,45 +1,45 @@
 TUTORIALS
 =========
 
-##KHAN ACADEMY
+## KHAN ACADEMY
 
 www.khanacademy.org
 
 FREE
 
-##CODE ACADEMY
+## CODE ACADEMY
 
 www.codecademy.com
 
 FREE
 
-##CODE SCHOOL
+## CODE SCHOOL
 
 www.codeschool.com
 
 COSTS ?
 
-##UDACITY
+## UDACITY
 
 www.udacity.com
 
 FREE
 
 
-##TREEHOUSE
+## TREEHOUSE
 
 www.teamtreehouse.com
 
 COSTS
 
-##LEARNSTREET
+## LEARNSTREET
 
 www.learnstreet.com
 
 FREE
 
 
-##THINKFUL
+## THINKFUL
 
 www.thinkful.com
 
@@ -49,18 +49,35 @@ FREE
 ADVANCED
 ========
 
-##LEARNCODETHEHARDWAY
+## LEARNCODETHEHARDWAY
 
 http://learncodethehardway.org/
 
 FREE
 
 
+LANGUAGE SPECIFIC
+=================
+
+## JAVASCRIPT
+
+http://www.w3schools.com/js/DEFAULT.asp
+
+https://www.codeschool.com/paths/javascript
+http://www.codecademy.com/en/tracks/javascript
+http://www.lynda.com/JavaScript-training-tutorials/
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+http://eloquentjavascript.net/
+http://yuiblog.com/crockford/
+
 
 FRAMEWORK SPECIFIC
 ==================
 
-##PROCESSING
+## PROCESSING
 
 http://processing.org/tutorials/
 http://hello.processing.org/
@@ -77,7 +94,7 @@ http://www.processing.lyndondaniels.com/
 http://funprogramming.org/
 
 
-##OPENFRAMEWORKS
+## OPENFRAMEWORKS
 
 http://www.openframeworks.cc/tutorials/introduction/001_chapter1.html
 

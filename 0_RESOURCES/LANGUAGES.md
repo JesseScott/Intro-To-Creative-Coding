@@ -18,7 +18,7 @@ LANGUAGES
 
 # [the C also rises]
 
-## C
+## C Sharp
 
 http://www.open-std.org/jtc1/sc22/wg14/
 
